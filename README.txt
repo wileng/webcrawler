@@ -1,9 +1,5 @@
 Created by William Eng
 
-The contents of this folder are for Professor Robert Dimpsey's CSS 490 Cloud computing class,
-for Winter of 2019. It contains this README.txt file, WebCrawler.java, WebCrawler.class, main.java
-main.class, and a build.sh file.
-
 In order to properly run, please do the following:
 
 	0) This program was developed in Linux. While it may work in other environments, it has
